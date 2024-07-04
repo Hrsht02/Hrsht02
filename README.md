@@ -8,7 +8,6 @@ Student at IIT Patna, graduating in Computer Science and Data Analytics
 
 Hobbies: Chess ♟️, Programming 💻, Cricket 🏏
 
-E-mail : hrsht002@gmail.com
 
 Achievements:
 
@@ -22,7 +21,10 @@ Represented my school in an inter-school chess tournament in 2014.
 
 Gold Medalist in chess at Annual Sports Carnival in school in 2017.
 
-LinkedIn: harshit-kumar-847b39292
 
+Contact: 
+
+E-mail : hrsht002@gmail.com
+LinkedIn: harshit-kumar-847b39292
 Instagram: @hrsht02
 
