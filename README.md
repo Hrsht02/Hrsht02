@@ -25,6 +25,8 @@ Gold Medalist in chess at Annual Sports Carnival in school in 2017.
 Contact: 
 
 E-mail : hrsht002@gmail.com
+
 LinkedIn: harshit-kumar-847b39292
+
 Instagram: @hrsht02
 
