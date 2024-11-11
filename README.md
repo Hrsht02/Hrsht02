@@ -16,7 +16,7 @@ Hi there! I’m **Harshit Kumar**—a student with a passion for technology, dat
 | **🌟 Attribute**   | **🌟 Detail**                                    |
 |---------------------|-------------------------------------------------|
 | **Pronunciation**  | Har-shit Koo-mar                                 |
-| **Degree**         | B.Tech in Computer Science & Data Analytics      |
+| **Degree**         | B.Sc. in Computer Science & Data Analytics      |
 | **Institute**      | Indian Institute of Technology (IIT) Patna       |
 | **Hobbies**        | Chess ♟️, Programming 💻, Cricket 🏏              |
 
