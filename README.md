@@ -1,32 +1,58 @@
-I'm Harshit Kumar.
+# 👨‍💻  Harshit Kumar
 
-Pronunciation: Har-shit Koo-mar
+> **"Code, Chess, and Curiosity – My three pillars for exploration!"**
 
-Currently live in Patna, Bihar
+---
 
-Student at IIT Patna, graduating in Computer Science and Data Analytics
+### 👨‍🎓 **Computer Science & Data Analytics Student** | 🎓 **IIT Patna**  
+🌍 **Currently in:** Patna, Bihar, India
 
-Hobbies: Chess ♟️, Programming 💻, Cricket 🏏
+Hi there! I’m **Harshit Kumar**—a student with a passion for technology, data, and a good game of chess. I’m always on the lookout for challenges that help me grow my skills and make a difference.
 
+---
 
-Achievements:
+## 📜 **Bio at a Glance**
 
-2018: Zonal Rank-1, International Rank-11 in National Cyber Olympiad conducted by Science Olympiad Foundation.
+| **🌟 Attribute**   | **🌟 Detail**                                    |
+|---------------------|-------------------------------------------------|
+| **Pronunciation**  | Har-shit Koo-mar                                 |
+| **Degree**         | B.Tech in Computer Science & Data Analytics      |
+| **Institute**      | Indian Institute of Technology (IIT) Patna       |
+| **Hobbies**        | Chess ♟️, Programming 💻, Cricket 🏏              |
 
-2019: Zonal Rank-1, International Rank-9 in National Cyber Olympiad conducted by Science Olympiad Foundation.
+---
 
-2020: Zonal Rank-5, International Rank-31 in National Cyber Olympiad conducted by Science Olympiad Foundation.
+## 🎖️ **Achievements & Awards**
 
-Represented my school in an inter-school chess tournament in 2014.
+- **National Cyber Olympiad (Science Olympiad Foundation)**  
+  - 🥇 **2018**: Zonal Rank-1 | International Rank-11  
+  - 🥇 **2019**: Zonal Rank-1 | International Rank-9  
+  - 🥇 **2020**: Zonal Rank-5 | International Rank-31  
 
-Gold Medalist in chess at Annual Sports Carnival in school in 2017.
+- **Chess Championships**  
+  - ♜ Represented school in inter-school chess tournament (2014)  
+  - 🥇 **Gold Medalist** at the Annual Sports Carnival (2017)
 
+---
 
-Contact: 
+## ♟️ **Hobbies & Interests**
 
-E-mail : hrsht002@gmail.com
+- **Chess**: Strategy and precision are my allies on the board.
+- **Programming**: I find joy in turning ideas into reality with code.
+- **Cricket**: A sport that keeps me active and grounded.
 
-LinkedIn: harshit-kumar-847b39292
+---
 
-Instagram: @hrsht02
+## 📫 **Let’s Connect!**
 
+| 🌐 **Platform**      | 📧 **Details**                                |
+|----------------------|-----------------------------------------------|
+| **Email**            | [hrsht002@gmail.com](mailto:hrsht002@gmail.com) |
+| **LinkedIn**         | [Harshit Kumar](https://linkedin.com/in/harshit-kumar-847b39292) |
+| **Instagram**        | [@hrsht02](https://instagram.com/hrsht02) |
+
+---
+
+### 👀 *Curious to Collaborate?*
+
+Whether it’s about **technology**, **analytics**, **chess strategies**, or just a quick conversation, I’d love to connect! Don’t hesitate to reach out and let’s create something incredible together!
